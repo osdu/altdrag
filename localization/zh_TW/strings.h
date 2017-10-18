@@ -12,7 +12,7 @@
 struct strings zh_TW = {
   L"zh-TW",
   L"Taiwanese",
-  L"繁體中文(台灣)",
+  L"繁體中文",
   L"Zkm",
   L"AltDrag",
   L"AltDrag (停用)",
